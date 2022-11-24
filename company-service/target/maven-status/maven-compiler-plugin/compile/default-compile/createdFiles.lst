@@ -1,0 +1,3 @@
+org\home\companyservice\CompanyServiceApplication.class
+org\home\companyservice\dao\CompanyRepository.class
+org\home\companyservice\entities\Company.class
